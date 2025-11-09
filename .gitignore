@@ -1,0 +1,16 @@
+# Python Environment
+venv/
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Large ML model file
+backend/prediction_app/Model.pkl
+
+# React
+frontend/node_modules
+frontend/build
+.env
+
+# Operating System
+.DS_Store
